@@ -1,9 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hanhan9449&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 ### 嗨，你好 👋
 
-嗨，你好，我是韩涵。
-
-成都大学自动化在读，热爱前端。
+🔭成都大学大三学子，准备跨考计算机，冲冲冲～
 
 <!--
 **hanhan9449/hanhan9449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
