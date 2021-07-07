@@ -2,8 +2,7 @@
 
 ### 嗨，你好 👋
 
-
-🔭成都大学大三学子，准备跨考计算机，冲冲冲～
+🔭字节实习ING～～～
 
 <!--
 **hanhan9449/hanhan9449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
