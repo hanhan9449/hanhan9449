@@ -2,7 +2,7 @@
 
 ### 嗨，你好 👋
 
-🔭字节实习ING～～～
+🔭字节打工ING～～～
 
 <!--
 **hanhan9449/hanhan9449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
